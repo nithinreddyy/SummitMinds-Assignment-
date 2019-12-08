@@ -1,0 +1,7 @@
+By seeing the data we can say that most of the fraudlents are the people who are using the visa cards. Due to my system problems it's not supporting the visualisation part. That's the reason
+i can't represent the tables or the histogram plots. Sorry for the problem. For the reference of my plots knowledge i'll attach my one of the data science project. 
+
+-> According to the data i can say that the people who completed the payment completely each and every time should be accepted for the next time. And the other people whose payments are not
+done correctly or delayed can be marked as insignificant people.
+
+-> Nithincabfareprediction is my project file. 
